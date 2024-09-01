@@ -3,11 +3,11 @@
 ## In this project I have taken the following steps to ensure my Accuracy is on point:
 - Reading Data from SQL database
 - Doing data cleaning
-- Performing Sementics Analysis
+- Performing Semantics Analysis
 - Applying Feature Engineering
 - Performing Data Analysis
 - Applying Feature Importance
-- Applying TF-IDF on the data
-- Applying Machine Learning algorithm on data
-- Doing prediction on sample data
+- Applying TF-IDF to the data
+- Applying Machine Learning algorithm to data
+- Making prediction on sample data
 - Checking Accuracy of Model
